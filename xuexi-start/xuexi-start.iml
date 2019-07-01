@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/resources" type="java-test-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="xuexi-service" />
+    <orderEntry type="library" name="Maven: com.taobao.pandora:taobao-hsf.sar:2019-04-stable" level="project" />
+    <orderEntry type="library" name="Maven: com.taobao.pandora.plugin:spas-sdk-service:1.3.0" level="project" />
+    <orderEntry type="library" name="Maven: com.taobao.pandora.plugin:metrics:2.0.2" level="project" />
+    <orderEntry type="library" name="Maven: com.taobao.pandora.plugin:vipserver-client:4.8.0" level="project" />
+    <orderEntry type="library" name="Maven: com.taobao.pandora.plugin:lwp:2.1.3.13" level="project" />
+    <orderEntry type="library" name="Maven: com.taobao.pandora.plugin:monitor:1.2.12" level="project" />
+    <orderEntry type="library" name="Maven: com.taobao.pandora.plugin:acl.plugin:2.2.02" level="project" />
+    <orderEntry type="library" name="Maven: com.taobao.pandora.plugin:ttl-plugin:1.1.0" level="project" />
+    <orderEntry type="library" name="Maven: com.taobao.pandora.plugin:notify-tr-client:5.0.3" level="project" />
+    <orderEntry type="library" name="Maven: com.taobao.pandora.plugin:spas-sdk-client:1.3.0" level="project" />
+    <orderEntry type="library" name="Maven: com.taobao.pandora.plugin:config-client:2.0.5" level="project" />
+    <orderEntry type="library" name="Maven: com.taobao.pandora.plugin:filesync-client:1.0.10" level="project" />
+    <orderEntry type="library" name="Maven: com.taobao.pandora.plugin:tddl-client:5.2.8" level="project" />
+    <orderEntry type="library" name="Maven: com.taobao.pandora.plugin:tbsession:3.1.4.7" level="project" />
+    <orderEntry type="library" name="Maven: com.taobao.pandora.plugin:hsf-notify-client:3.2.2" level="project" />
+    <orderEntry type="library" name="Maven: com.taobao.pandora.plugin:diamond-client:3.8.15" level="project" />
+    <orderEntry type="library" name="Maven: com.taobao.pandora.plugin:pandora-qos-service:2.1.6.7" level="project" />
+    <orderEntry type="library" name="Maven: com.taobao.pandora.plugin:ons-sdk:1.8.0-EagleEye" level="project" />
+    <orderEntry type="library" name="Maven: com.taobao.pandora.plugin:tair-plugin:4.1.6" level="project" />
+    <orderEntry type="library" name="Maven: com.taobao.pandora.plugin:hsf-mock:1.0.5" level="project" />
+    <orderEntry type="library" name="Maven: com.taobao.pandora.plugin:rocketmq-client:4.3.5" level="project" />
+    <orderEntry type="library" name="Maven: com.taobao.pandora.plugin:switch:2.1.1.1" level="project" />
+    <orderEntry type="library" name="Maven: com.taobao.pandora.plugin:buc.sso.client.plugin:0.9.12" level="project" />
+    <orderEntry type="library" name="Maven: com.taobao.pandora.plugin:eagleeye-core:1.8.1.2" level="project" />
+    <orderEntry type="library" name="Maven: com.taobao.pandora.plugin:pandora-framework:2.1.8.1" level="project" />
+    <orderEntry type="library" name="Maven: com.taobao.pandora.plugin:alimonitor-jmonitor:1.2.6" level="project" />
+    <orderEntry type="library" name="Maven: com.taobao.pandora.plugin:dpath:1.5" level="project" />
+    <orderEntry type="library" name="Maven: com.taobao.pandora.plugin:pandolet:1.0.2" level="project" />
+    <orderEntry type="library" name="Maven: com.taobao.pandora.plugin:hsf:2.2.7.8-BUGFIX" level="project" />
+    <orderEntry type="library" name="Maven: com.taobao.pandora.plugin:metaq-client:4.2.6.Final" level="project" />
+    <orderEntry type="library" name="Maven: com.taobao.pandora.plugin:mtop-uncenter:1.0.5.3" level="project" />
+    <orderEntry type="library" name="Maven: com.taobao.pandora.plugin:unitrouter:1.2.3" level="project" />
+    <orderEntry type="library" name="Maven: com.taobao.pandora:taobao-hsf.sar-container:2019-04-stable" level="project" />
+    <orderEntry type="library" name="Maven: com.alibaba.boot:velocity-spring-boot-starter:1.0.4.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: com.alibaba.boot:velocity-spring-boot-autoconfigure:1.0.4.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: com.alibaba.spring:spring-context-velocity:1.4.3.18.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: com.alibaba.spring:spring-webmvc-velocity:1.4.3.18.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: com.alibaba.boot:spring-boot-web-support:1.0.0.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: com.alibaba.spring:spring-webmvc-support:1.0.0.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: com.alibaba.spring:spring-context-support:1.0.0.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.velocity:velocity:1.7" level="project" />
+    <orderEntry type="library" name="Maven: commons-collections:commons-collections:3.2.2" level="project" />
+    <orderEntry type="library" name="Maven: commons-lang:commons-lang:2.6" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.velocity:velocity-tools:2.0" level="project" />
+    <orderEntry type="library" name="Maven: commons-beanutils:commons-beanutils:1.9.3" level="project" />
+    <orderEntry type="library" name="Maven: commons-digester:commons-digester:2.1" level="project" />
+    <orderEntry type="library" name="Maven: commons-chain:commons-chain:1.1" level="project" />
+    <orderEntry type="library" name="Maven: commons-validator:commons-validator:1.3.1" level="project" />
+    <orderEntry type="library" name="Maven: dom4j:dom4j:1.6.1" level="project" />
+    <orderEntry type="library" name="Maven: xml-apis:xml-apis:1.4.01" level="project" />
+    <orderEntry type="library" name="Maven: oro:oro:2.0.8" level="project" />
+    <orderEntry type="library" name="Maven: sslext:sslext:1.2-0" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-web:1.5.20.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-tomcat:1.5.20.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tomcat.embed:tomcat-embed-core:8.5.39" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tomcat:tomcat-annotations-api:8.5.39" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tomcat.embed:tomcat-embed-el:8.5.39" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tomcat.embed:tomcat-embed-websocket:8.5.39" level="project" />
+    <orderEntry type="library" name="Maven: org.hibernate:hibernate-validator:5.3.6.Final" level="project" />
+    <orderEntry type="library" name="Maven: javax.validation:validation-api:1.1.0.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.logging:jboss-logging:3.3.2.Final" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml:classmate:1.3.4" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.8.11.3" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.8.0" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-core:2.8.11" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-web:4.3.23.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-aop:4.3.23.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-beans:4.3.23.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-context:4.3.23.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-webmvc:4.3.23.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-expression:4.3.23.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-actuator:1.5.20.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-actuator:1.5.20.RELEASE" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: com.taobao.pandora:pandora-boot-test:2.1.11.3" level="project" />
+    <orderEntry type="library" name="Maven: com.taobao.pandora:pandora-boot-common:2.1.11.3" level="project" />
+    <orderEntry type="library" name="Maven: com.taobao.pandora:pandora-boot-loader:2.1.11.3" level="project" />
+    <orderEntry type="library" name="Maven: com.taobao.pandora:pandora-boot-version:2.1.11.3" level="project" />
+    <orderEntry type="library" name="Maven: com.taobao.pandora:pandora.archive:2.1.11" level="project" />
+    <orderEntry type="library" name="Maven: com.taobao.pandora:pandora-boot-autoconf:2.1.11.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.springframework.boot:spring-boot-test:1.5.20.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot:1.5.20.RELEASE" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.springframework:spring-test:4.3.23.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-core:4.3.23.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: commons-logging:commons-logging:1.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.mockito:mockito-all:1.10.19" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: junit:junit:4.12" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.hamcrest:hamcrest-core:1.3" level="project" />
+    <orderEntry type="library" name="Maven: com.taobao.pandora:pandora-boot-bootstrap:2.1.11.3" level="project" />
+    <orderEntry type="library" name="Maven: com.taobao.pandora:pandora-boot-bootstrap-springboot2:2.1.11.3" level="project" />
+    <orderEntry type="library" name="Maven: com.taobao.middleware:logger.api:0.2.5" level="project" />
+    <orderEntry type="library" name="Maven: com.taobao.middleware:logger.core:0.2.5" level="project" />
+    <orderEntry type="library" name="Maven: com.taobao.middleware:logger.pandolet:0.2.5" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter:1.5.20.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-autoconfigure:1.5.20.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-logging:1.5.20.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: ch.qos.logback:logback-classic:1.1.11" level="project" />
+    <orderEntry type="library" name="Maven: ch.qos.logback:logback-core:1.1.11" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.26" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:jcl-over-slf4j:1.7.26" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:jul-to-slf4j:1.7.26" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:log4j-over-slf4j:1.7.26" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.yaml:snakeyaml:1.17" level="project" />
+  </component>
+</module>
